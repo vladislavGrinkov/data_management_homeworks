@@ -1,3 +1,6 @@
+-- ФИО
+SELECT 'ФИО: Томчик Никита Сергеевич';
+
 -- Database schema and tables
 CREATE SCHEMA IF NOT EXISTS homework1;
 
