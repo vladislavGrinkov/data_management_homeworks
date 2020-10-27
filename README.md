@@ -11,6 +11,11 @@
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/slides/hw/hw2.md)
 - [SQL скрипт](../master/sql/homework_2.sql)
 
-TODO:
+
+## Третья домашняя работа
+
+- [Задание](https://github.com/adzhumurat/data_management/blob/master/slides/hw/hw3.md)
+- [SQL скрипт](../master/sql/homework_3.sql)
+
 
 - [ ] Добавить скриншоты запросов
