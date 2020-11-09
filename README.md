@@ -22,3 +22,8 @@
 
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/slides/hw/hw4.md)
 - [SQL скрипт](../master/sql/homework_4.sql)
+
+## Пятая домашняя работа
+
+- [Задание](https://github.com/adzhumurat/data_management/blob/master/slides/hw/hw5.md)
+- [JS скрипт с запросами](../master/js/aggregation.js)
