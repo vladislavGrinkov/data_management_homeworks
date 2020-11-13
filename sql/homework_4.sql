@@ -32,4 +32,4 @@ INNER JOIN (
     ON kw.movieid = tt.movieid;
 
 
-\copy movie.content_genres TO '/usr/share/data_store/raw_data/top_rated_movies_with_keywords.csv' DELIMITER ',';
+\copy movie.ratings_and_keywords TO '/usr/share/data_store/raw_data/top_rated_movies_with_keywords.csv' DELIMITER ',';
