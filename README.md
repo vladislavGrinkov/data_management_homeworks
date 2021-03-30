@@ -48,3 +48,8 @@
 ### Третья? домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/II_machine_learning_intro_hw.ipynb)
 - [Решение](../master/jupyter/II_machine_learning_intro_hw.ipynb)
+
+
+### Четвертая? домашняя работа
+- [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/III_machine_learning_supervised_hw.ipynb)
+- [Решение](../master/jupyter/III_machine_learning_supervised_hw.ipynb)
