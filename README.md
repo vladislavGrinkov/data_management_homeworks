@@ -39,17 +39,22 @@
 - [Решение](../master/jupyter/I_probability_hw_1_proba.ipynb)
 
 
-### Вторая домашняя работа
+### Домашняя работа по Байесовскому классификатору
 
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/I_probability_hw_2_naive_bayes.ipynb)
 - [Решение](../master/jupyter/naive_bayes_classifier.ipynb)
 
 
-### Третья? домашняя работа
+### Вторая домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/II_machine_learning_intro_hw.ipynb)
 - [Решение](../master/jupyter/II_machine_learning_intro_hw.ipynb)
 
 
-### Четвертая? домашняя работа
+### Третья домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/III_machine_learning_supervised_hw.ipynb)
 - [Решение](../master/jupyter/III_machine_learning_supervised_hw.ipynb)
+
+
+### Четвертая домашняя работа
+- [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/IV_machine_learning_unsupervised_hw.ipynb)
+- [Решение](../master/jupyter/IV_machine_learning_unsupervised_hw.ipynb)
