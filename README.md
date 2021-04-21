@@ -58,3 +58,8 @@
 ### Четвертая домашняя работа
 - [Задание](https://github.com/adzhumurat/data_management/blob/master/jupyter_notebooks/IV_machine_learning_unsupervised_hw.ipynb)
 - [Решение](../master/jupyter/IV_machine_learning_unsupervised_hw.ipynb)
+
+
+### Пятая домашняя работа
+- [Задание](https://github.com/aleksandr-dzhumurat/data_management/blob/master/jupyter_notebooks/V_machine_learning_tuning_hw.ipynb)
+- [Решение](../master/jupyter/V_machine_learning_tuning_hw.ipynb)

@@ -1,2 +1,3 @@
 jupyter/.venv
 jupyter/.ipynb_checkpoints
+jupyter/tokenizers
