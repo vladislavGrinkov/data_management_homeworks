@@ -63,3 +63,8 @@
 ### Пятая домашняя работа
 - [Задание](https://github.com/aleksandr-dzhumurat/data_management/blob/master/jupyter_notebooks/V_machine_learning_tuning_hw.ipynb)
 - [Решение](../master/jupyter/V_machine_learning_tuning_hw.ipynb)
+
+
+### Шестая домашняя работа
+- [Задание](https://github.com/aleksandr-dzhumurat/data_management/blob/master/jupyter_notebooks/VI_machine_learning_production_hw.ipynb)
+- [Решение](../master/jupyter/VI_machine_learning_production_hw.ipynb)
